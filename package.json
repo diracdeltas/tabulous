@@ -2,8 +2,8 @@
   "name": "tabulous",
   "fullName": "tabulous",
   "id": "jid1-xgVb3exEZVBSYQ",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
+  "description": "collapse all Firefox tabs to a single tab",
+  "author": "Yan Zhu <yan@mit.edu>",
+  "license": "GPL3",
   "version": "0.1"
 }
